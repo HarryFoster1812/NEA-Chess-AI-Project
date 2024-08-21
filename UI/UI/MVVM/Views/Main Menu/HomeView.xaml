@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="UI.MVVM.Views.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.MVVM.Views"
+             xmlns:UserLoc ="clr-namespace:UI.MVVM.Models.Players"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=BackgroundColour.ColourBrush}">
+        <TextBlock Text="Welcome!" FontSize="40" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Margin="20"/>
+
+        <Grid Height="270" Width="400" Margin="0,25,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <!-- <RowDefinition/> -->
+            </Grid.RowDefinitions>
+                
+                <Label Content="Play" Grid.Row="0" Margin="10" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}" MouseUp="Play_Click" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                <!-- <Label Content="Play Online" Grid.Row="1" Margin="10" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}"  MouseUp="PlayOnline_Click" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/> -->
+
+                <Label Content="Settings" Grid.Column="1" Grid.Row="0" Margin="10" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}" MouseUp="Settings_Click" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                <Label Content="Analysis" Grid.Column="1" Grid.Row="1" Margin="10" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}" MouseUp="Analysis_Click" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+            <Label Content="Exit"  Grid.ColumnSpan="1" Grid.Row="1" Margin="10" Width="200" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}" MouseUp="Exit_Click" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+
+        </Grid>
+    </Grid>
+</UserControl>

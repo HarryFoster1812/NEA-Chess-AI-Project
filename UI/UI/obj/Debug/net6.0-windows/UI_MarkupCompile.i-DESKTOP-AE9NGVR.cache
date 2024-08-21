@@ -1,0 +1,20 @@
+﻿UI
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\
+UI
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\App.xaml
+7818566507
+
+23-692100044
+195846440373
+MVVM\Views\BoardView.xaml;MVVM\Views\GameInformationView.xaml;MVVM\Views\HomeView.xaml;MVVM\Views\LogIn.xaml;MVVM\Views\MainWindow.xaml;MVVM\Views\PlayingScreen.xaml;MVVM\Views\SignUp.xaml;
+
+True
+

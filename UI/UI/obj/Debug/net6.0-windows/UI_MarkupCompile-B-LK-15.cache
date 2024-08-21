@@ -1,0 +1,20 @@
+﻿UI
+
+
+winexe
+C#
+.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\
+UI
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\App.xaml
+23-1177946566
+
+381026314529
+203-575727931
+MVVM\Views\Analysis\AnalysisBoardView.xaml;MVVM\Views\Analysis\AnalysisScreen.xaml;MVVM\Views\Analysis\EngineAnalysisView.xaml;MVVM\Views\Main Menu\HomeView.xaml;MVVM\Views\Main Menu\LogIn.xaml;MVVM\Views\Main Menu\MainMenu.xaml;MVVM\Views\Main Menu\ServerBrowser.xaml;MVVM\Views\Main Menu\SignUp.xaml;MVVM\Views\MainWindow.xaml;MVVM\Views\New Game\NewGameBotSelectView.xaml;MVVM\Views\New Game\NewGamePlayerSelectView.xaml;MVVM\Views\New Game\NewGameView.xaml;MVVM\Views\New Game\TimePerGame.xaml;MVVM\Views\New Game\UnlimtedTime.xaml;MVVM\Views\Playing Screen\BoardView.xaml;MVVM\Views\Playing Screen\GameInformationView.xaml;MVVM\Views\Playing Screen\GameOver.xaml;MVVM\Views\Playing Screen\PlayerInfoView.xaml;MVVM\Views\Playing Screen\PlayingScreen.xaml;MVVM\Views\Playing Screen\Promotion.xaml;MVVM\Views\Settings\BoardPreview.xaml;MVVM\Views\Settings\ManageEnginesPopup.xaml;MVVM\Views\Settings\Settings.xaml;
+
+False
+

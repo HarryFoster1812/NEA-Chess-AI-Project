@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/55mWE+3Yo5Zg6bTq1NPEPa6V8ri3sYInSHdj/YILE5idt0BBToApaK/kJG/OmmnL5OpYaqq4bOy/PBQPcHHA==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\OneDrive - Bury Grammar Schools\\A level\\Computer science\\NEA Chess Ai Project\\UI\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\dotnetprojects.svgimage\\5.1.1\\dotnetprojects.svgimage.5.1.1.nupkg.sha512",
+    "C:\\Users\\harry\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

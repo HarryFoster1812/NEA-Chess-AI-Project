@@ -1,0 +1,30 @@
+﻿<Window x:Class="UI.MVVM.Views.ManageEnginesPopup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI.MVVM.Views"
+        xmlns:UserLoc ="clr-namespace:UI.MVVM.Models.Players"
+
+        mc:Ignorable="d"
+        Title="ManageEnginesPopup" Height="450" Width="800" Background="#FF2F2E30">
+    <Viewbox Stretch="Uniform">
+        <Grid Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=PanelColour.ColourBrush}">
+        <TextBlock Text="Manage Engines" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" FontSize="20" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="15"/>
+        <Grid Width="600" Height="380" Margin="0, 40,0,0">
+                <Grid Height="50" VerticalAlignment="Top">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0" Margin="5" Content="+ Add New" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}"  Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Click="Add_Click"/>
+                    <Button Grid.Column="1" Margin="5" Content="Delete" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Click="Delete_Click"/>
+                    <Button Grid.Column="2" Margin="5" Content="Make Default" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Click="MakeDefault_Click"/>
+                </Grid>
+                <ListBox x:Name="Engines" Height="320" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=BackgroundColour.ColourBrush}" VerticalAlignment="Bottom" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" BorderThickness="1"/>
+
+            </Grid>
+    </Grid>
+    </Viewbox>
+</Window>

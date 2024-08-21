@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="UI.MVVM.Views.NewGamePlayerSelectView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.MVVM.Views"
+             xmlns:UserLoc ="clr-namespace:UI.MVVM.Models.Players"
+
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="265">
+    <Grid>
+        <TextBlock Text="Display Name:" VerticalAlignment="Center" Margin="20" Width="80" HorizontalAlignment="Left" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}"/>
+        <TextBox x:Name="NameTextBox" Text="Anon" HorizontalContentAlignment="Center" VerticalAlignment="Center" Margin="60,0, 0, 0" Width="100" HorizontalAlignment="Center" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextBoxColour.ColourBrush}"/>
+    </Grid>
+</UserControl>

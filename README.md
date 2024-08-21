@@ -1,1 +1,2 @@
-# NEA-Chess-AI-Project-
+# NEA Chess Engine
+ 

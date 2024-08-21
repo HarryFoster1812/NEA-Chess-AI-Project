@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="UI.MVVM.Views.Promotion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.MVVM.Views"
+             xmlns:svg="https://github.com/dotnetprojects/SVGImage"
+             xmlns:UserLoc ="clr-namespace:UI.MVVM.Models.Players"
+             mc:Ignorable="d" 
+             d:DesignHeight="180" d:DesignWidth="45">
+    <StackPanel x:Name="promotion" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=PanelColour.ColourBrush}">
+        <svg:SVGImage Tag="q" Height="45" MouseDown="PieceClick"/> <!-- Queen -->
+        <svg:SVGImage Tag="r" Height="45" MouseDown="PieceClick"/> <!-- Rook -->
+        <svg:SVGImage Tag="b" Height="45" MouseDown="PieceClick"/> <!-- Bishop -->
+        <svg:SVGImage Tag="n" Height="45" MouseDown="PieceClick"/> <!-- Knight -->
+       
+
+    </StackPanel>
+</UserControl>

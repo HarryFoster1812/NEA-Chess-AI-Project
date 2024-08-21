@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="UI.MVVM.Views.PlayerInfoView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.MVVM.Views"
+             xmlns:UserLoc ="clr-namespace:UI.MVVM.Models.Players"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="130">
+    <Grid>
+        <TextBlock x:Name="player2Clock" Text="00:00:00" HorizontalAlignment="Center" VerticalAlignment="Top" Height="11" Width="50" FontSize="8" TextAlignment="Center" Margin="0,0,0,2" Visibility="Hidden" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}"/>
+
+        <Grid Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=PanelColour.ColourBrush}" Height="120" Width="130">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0">
+                <StackPanel Orientation="Horizontal">
+                    <Border x:Name="player2Colour" Height="10" Width="10" Background="Black" Margin="2 2 0 0"/>
+                    <TextBlock x:Name="player2Name" Text="YeahBuddy1812" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Margin="2 2 0 0" TextWrapping="Wrap" Width="51" FontSize="7"/>
+                </StackPanel>
+                <Button x:Name="DrawButton"  Content="1/2 Draw" Margin="0 25 0 0" Click="Draw_Click"/>
+                <Button x:Name="TakeBackButton" Content="Take Back" Margin="0 5 0 25" Click="TakeBack_Click"/>
+                <StackPanel Orientation="Horizontal">
+                    <Border x:Name="player1Colour" Height="10" Width="10" Background="White" Margin="2 2 0 0"/>
+                    <TextBlock x:Name="player1Name" Text="YeahBuddy181..." Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Margin="2 2 0 0" TextWrapping="Wrap" Width="51" FontSize="7"/>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="player2Flag" Width="20" Height="10" Margin="0 2 1 0" Source="D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\Assets\Flags\flag_uae.gif"/>
+                    <TextBlock x:Name="player2Rating" Text="Rating: 2000" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Margin="4 2 0 0" TextWrapping="Wrap" FontSize="7"/>
+                </StackPanel>
+                <Button x:Name="ResignButton" Margin="0 25 0 0" Content="Resign" Click="Resign_Click"/>
+                <Button x:Name="AnalysisButton"  Margin="0 5 0 25" Content="Analysis" IsEnabled="False" Click="Analysis_Click"/>
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="player1Flag" Width="20" Height="10" Margin="0 2 1 0" Source="D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\Assets\Flags\flag_uae.gif"/>
+                    <TextBlock x:Name="player1Rating" Text="Rating: 1000" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Margin="4 2 0 0" TextWrapping="Wrap" Width="40" FontSize="7"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+        <TextBlock x:Name="player1Clock" Text="00:00:00" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="11" Width="50" FontSize="8" TextAlignment="Center" Margin="0,0,0,2" Visibility="Hidden" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" />
+    </Grid>
+</UserControl>

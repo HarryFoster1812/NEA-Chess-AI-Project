@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject></StartupObject>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>7</WarningLevel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <WarningLevel>7</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Assests\**" />
+    <EmbeddedResource Remove="Assests\**" />
+    <None Remove="Assests\**" />
+    <Page Remove="Assests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetProjects.SVGImage" Version="5.1.1" />
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Client">
+      <HintPath>..\..\LAN\Client\Client\bin\Debug\Client.exe</HintPath>
+    </Reference>
+    <Reference Include="Engine">
+      <HintPath>..\..\Engine\Engine\bin\Debug\Engine.exe</HintPath>
+    </Reference>
+    <Reference Include="Server">
+      <HintPath>..\..\LAN\Server\Server\bin\Debug\Server.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

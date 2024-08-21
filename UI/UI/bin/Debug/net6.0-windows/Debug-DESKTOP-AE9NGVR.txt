@@ -1,0 +1,7054 @@
+Searching Position:
+ +---+---+---+---+---+---+---+---+ 
+| r | n | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 13628769685769991384
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g8h6
+Value: 0
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g8f6
+Value: -0.2
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b8c6
+Value: -1
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b8a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: b8c6
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   | n |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 6617263426765013380
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: c6d4
+Value: -1
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: c6b4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c6e5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c6a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c6b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a8b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: c6d4
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | n |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L |   |   | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 10385228179591939000
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: d4e2
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: d4c2
+Value: 1
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: d4f3
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: d4b3
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: d4f5
+Value: -1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: d4b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d4e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d4c6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a8b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: d4f5
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L | n |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L | Q |   | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 4910732695862208427
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: f5g3
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: f5e3
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: f5h4
+Value: -1
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: f5d4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f5h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f5d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a8b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: f5h4
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   | n | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L | L |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L | Q |   |   | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 3923786289774299436
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: h4g2
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: h4f3
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: h4f5
+Value: -0.2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: h4g6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: g8h6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: g8f6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a8b8
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: h7h5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: h7h6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: g7g5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: g7g6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f7f5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f7f6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: e7e6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: d7d5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: d7d6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: c7c5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: c7c6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b7b5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b7b6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a7a5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a7a6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Best Move: h4f5
+Value: -0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L | n |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L | Q |   |   | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 11530409929003127149
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: f5g3
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: f5e3
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: f5h4
+Value: -1
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: f5d4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f5h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f5d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a8b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: f5h4
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | L | n | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   | B | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L | Q |   |   | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K |   | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 9374095953516536879
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: h4g2
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: h4f3
+Value: 1
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: h4f5
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: h4g6
+Value: -1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g8h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g8f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a8b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: h4g6
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+| Q |   |   |   |   |   | n |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   | B | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L |   |   |   | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K |   | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 17578125252353204639
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: b7a6
+Value: -10
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g6h4
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: g6f4
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: g6e5
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: g8h6
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: g8f6
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: a8b8
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: h7h5
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: h7h6
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: f7f5
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: f7f6
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: e7e6
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: d7d5
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: d7d6
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: c7c5
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: c7c6
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: b7b5
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Move: b7b6
+Value: -10
+Alpha: -∞
+Beta: -10
+Best Eval: -10
+Best Move: b7a6
+Value: -10Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r | n | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 5594402723669592587
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g8h6
+Value: 0
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g8f6
+Value: -0.2
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b8c6
+Value: -1
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b8a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: b8c6
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   | n |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | L |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 1795112694556315414
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: c6d4
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: c6b4
+Value: 0
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: c6e5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: c6a5
+Value: -0.2
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: c6b8
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: g8h6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: g8f6
+Value: -1
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a8b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: g8f6
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   | n |   |   | n |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 8656656441805665841
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: f6g4
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: f6e4
+Value: 1
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: f6h5
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f6d5
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f6g8
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: c6d4
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: c6b4
+Value: 0
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: c6e5
+Value: -1
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: c6a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c6b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h8g8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a8b8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: c6e5
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | n |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | n |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L | L |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 6757062621250997652
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e5f3
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e5d3
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: e5g4
+Value: 0
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: e5c4
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: e5g6
+Value: -0.2
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: e5c6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f6g4
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f6e4
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f6h5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f6d5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f6g8
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: h8g8
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a8b8
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: h7h5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: h7h6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: g7g5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: g7g6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: e7e6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: d7d6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: c7c5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: c7c6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b7b5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b7b6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a7a5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a7a6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Best Move: e5g6
+Value: -0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | n | n |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 7194675573319066138
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g6h4
+Value: 2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g6f4
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g6e5
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: f6g4
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: f6e4
+Value: 1
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: f6h5
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f6d5
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f6g8
+Value: -0.2
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: h8g8
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a8b8
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: h7h5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: h7h6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: e7e6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: d7d6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: c7c5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: c7c6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b7b5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b7b6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a7a5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: a7a6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Best Move: f6g8
+Value: -0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | n |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   | L | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 3390442420610890331
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g6h4
+Value: 1
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g6f4
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g6e5
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g8h6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g8f6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: a8b8
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: h7h5
+Value: -0.2
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: h7h6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f7f5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: f7f6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: e7e6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: d7d6
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: c7c5
+Value: -0.2
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: c7c6
+Value: -1
+Alpha: -∞
+Beta: -0.2
+Best Eval: -0.2
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: c7c6
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   | l |   |   |   | n |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | L |   |   | L | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 12073158232682758623
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: c6d5
+Value: 1
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g6h4
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g6f4
+Value: 0
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g6e5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: g8h6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: g8f6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a8b8
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d8a5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d8b6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d8c7
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: c6c5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: h7h6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: f7f5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: f7f6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: e7e6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d7d6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b7b5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b7b6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a7a5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a7a6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Best Move: g6f4
+Value: 0Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   | l |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | L |   |   | L | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N |   | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 9201356268486478391
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: c6d5
+Value: 0
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g8h6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: g8f6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a8b8
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d8a5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d8b6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d8c7
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: c6c5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: h7h6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: g7g5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: g7g6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: f7f5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: f7f6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: e7e6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d7d6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b7b5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b7b6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a7a5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a7a6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Best Move: c6d5
+Value: 0Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l | L |   |   | L | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   | N |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+| R |   |   | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 15088107246929365317
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g8h6
+Value: 1.8
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g8f6
+Value: 1.8
+Alpha: -∞
+Beta: 1.8
+Best Eval: 1.8
+Move: a8b8
+Value: 1.8
+Alpha: -∞
+Beta: 1.8
+Best Eval: 1.8
+Move: d8a5
+Value: 1
+Alpha: -∞
+Beta: 1.8
+Best Eval: 1.8
+Move: d8b6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: d8c7
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: d5d4
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: h7h6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g7g5
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g7g6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f7f5
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f7f6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: e7e6
+Value: 0
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: d7d6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b7b5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b7b6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a7a5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a7a6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Best Move: e7e6
+Value: 0Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l | L |   |   | L | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   | N |   |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+| R |   |   |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 4731020478272437206
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 1
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g8h6
+Value: 0.8
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g8f6
+Value: 0.8
+Alpha: -∞
+Beta: 0.8
+Best Eval: 0.8
+Move: g8e7
+Value: 0
+Alpha: -∞
+Beta: 0.8
+Best Eval: 0.8
+Move: a8b8
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: f8a3
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: f8b4
+Value: -0.8
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: f8c5
+Value: -1
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f8d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f8e7
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8h4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8e7
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8c7
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d5d4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: f8c5
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k |   | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   | b | l | L |   |   | L | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   | N |   |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: kq
+Zobrist Key: 12017302036027345043
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 1
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 0.2
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g8h6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8e7
+Value: 0
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a8b8
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: c5g1
+Value: -1
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: c5f2
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c5e3
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c5a3
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c5d4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c5b4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c5d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c5b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c5e7
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c5f8
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8h4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8e7
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d8c7
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d5d4
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: -1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: c5g1
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k |   | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l | L |   |   | L | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   | N |   |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   | B | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: kq
+Zobrist Key: 11144616483016015713
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 1.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g8h6
+Value: 1
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g8f6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g8e7
+Value: 0.2
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8h4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8e7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8c7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d5d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h7h6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d7d6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Best Move: g8e7
+Value: 0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k |   |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | n | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | L | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   | N |   |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   | B | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: kq
+Zobrist Key: 17920351422673788197
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g7h6
+Value: 0.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e8g8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7f5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7g6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7c6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7g8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h8g8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h8f8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8c7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d5d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d7d6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Best Move: g7h6
+Value: 0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k |   |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | n | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   | N |   | l | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   | L |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   | B | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: kq
+Zobrist Key: 14915131095181997365
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8f8
+Value: 7
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8g8
+Value: 1.2
+Alpha: -∞
+Beta: 7
+Best Eval: 7
+Move: e7f5
+Value: 0.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: e7g6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7c6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7g8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h8g8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h8f8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8c7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d5d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h6h5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d7d6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Best Move: e7f5
+Value: 0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k |   |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   | N |   | l | L | n |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   | B | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: kq
+Zobrist Key: 3434031236715657718
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 3.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: e8g8
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f5g3
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f5e3
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f5h4
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f5d4
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f5d6
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f5g7
+Value: 1.4
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f5e7
+Value: 1.4
+Alpha: -∞
+Beta: 1.4
+Best Eval: 1.4
+Move: h8g8
+Value: 0.2
+Alpha: -∞
+Beta: 1.4
+Best Eval: 1.4
+Move: h8f8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8h4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8e7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d8c7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d5d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h6h5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d7d6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Best Move: h8g8
+Value: 0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k |   | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   | N |   | l | L | n |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | B |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 15507847240020586726
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 3.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 2.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f5g3
+Value: 2.2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: f5e3
+Value: 2.2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: f5h4
+Value: 2.2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: f5d4
+Value: 2.2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: f5d6
+Value: 2.2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: f5g7
+Value: 2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: f5e7
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g4
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g5
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g6
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g7
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8h8
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8f8
+Value: 1.4
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: a8b8
+Value: 1.4
+Alpha: -∞
+Beta: 1.4
+Best Eval: 1.4
+Move: d8h4
+Value: 1.4
+Alpha: -∞
+Beta: 1.4
+Best Eval: 1.4
+Move: d8g5
+Value: 1.4
+Alpha: -∞
+Beta: 1.4
+Best Eval: 1.4
+Move: d8a5
+Value: 1.4
+Alpha: -∞
+Beta: 1.4
+Best Eval: 1.4
+Move: d8f6
+Value: 1.4
+Alpha: -∞
+Beta: 1.4
+Best Eval: 1.4
+Move: d8b6
+Value: -0.8
+Alpha: -∞
+Beta: 1.4
+Best Eval: 1.4
+Move: d8e7
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d8c7
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d5d4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: h6h5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f7f6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d7d6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Best Move: d8b6
+Value: -0.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   | q |   | N | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l | L | n |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | B |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 574066050882737035
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 1
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: e8d8
+Value: 0.2
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f5d6
+Value: -0.8
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6d6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Best Move: f5d6
+Value: -0.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   | q |   | L | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | B |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 11395827601558915126
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8f8
+Value: 1.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8d8
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: b6b2
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: b6b3
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: b6b4
+Value: 0.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: b6b5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6d6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6c6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6a6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8g4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8g6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8g7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8h8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8f8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6g1
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6f2
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6e3
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6c5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6a5
+Value: -0.8
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b6c7
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b6d8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d5d4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: h6h5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e6e5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f7f5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f7f6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Best Move: b6a5
+Value: -0.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+| q |   |   | l |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 15902487114108263643
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8f8
+Value: 2.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8d8
+Value: 2.2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: a5a3
+Value: 2.2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: a5a4
+Value: 1.2
+Alpha: -∞
+Beta: 2.2
+Best Eval: 2.2
+Move: a5c5
+Value: 0.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: a5b5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a5a6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8g4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8g6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8g7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8h8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g8f8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a5e1
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a5d2
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a5c3
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a5b4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a5b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a5c7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a5d8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d5d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h6h5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e6e5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Best Move: a5c5
+Value: 0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   | q | l |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B | B | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K | R |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 8507650402938836652
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8f8
+Value: 9.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8d8
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: c5c2
+Value: 8.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: c5c3
+Value: 8.2
+Alpha: -∞
+Beta: 8.2
+Best Eval: 8.2
+Move: c5c4
+Value: 8.2
+Alpha: -∞
+Beta: 8.2
+Best Eval: 8.2
+Move: c5b5
+Value: 8.2
+Alpha: -∞
+Beta: 8.2
+Best Eval: 8.2
+Move: c5a5
+Value: 2
+Alpha: -∞
+Beta: 8.2
+Best Eval: 8.2
+Move: c5c6
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: c5c7
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g4
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g5
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g6
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g7
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8h8
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8f8
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: a8b8
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: c5e3
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: c5a3
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: c5d4
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: c5b4
+Value: 2
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: c5d6
+Value: -0.8
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: c5b6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d5d4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: h6h5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e6e5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f7f5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f7f6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Best Move: c5d6
+Value: -0.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | q | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B | B | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K |   |   | R | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 4441266769852290370
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 8.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 8.2
+Alpha: -∞
+Beta: 8.2
+Best Eval: 8.2
+Move: e8d8
+Value: 1.2
+Alpha: -∞
+Beta: 8.2
+Best Eval: 8.2
+Move: d6c6
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6b6
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6a6
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g8g4
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g8g5
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g8g6
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g8g7
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g8h8
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g8f8
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: a8b8
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6h2
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6g3
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6a3
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6f4
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6b4
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6e5
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6c5
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6e7
+Value: -0.8
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: d6c7
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d6f8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d6b8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d5d4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: h6h5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e6e5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f7f5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f7f6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Best Move: d6e7
+Value: -0.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | q | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   | K |   |   | R | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 7777995879179753343
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8f8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8d8
+Value: -0.8
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g8g4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: g8g5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: g8g6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: g8g7
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: g8h8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: g8f8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a8b8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7a3
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7h4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7b4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7g5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7c5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7f6
+Value: -1.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7d6
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: e7f8
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: e7d8
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: d5d4
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: h6h5
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: e6e5
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: f7f5
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: f7f6
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: d7d6
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: b7b5
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: b7b6
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: a7a5
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Move: a7a6
+Value: -1.8
+Alpha: -∞
+Beta: -1.8
+Best Eval: -1.8
+Best Move: e7f6
+Value: -1.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l | q |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   | Q |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   | K |   |   |   | R | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 11170896274900223052
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 5
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: e8d8
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: f6f4
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: f6f5
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: f6g6
+Value: 4
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: g8g4
+Value: 3.2
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g8g5
+Value: 2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: g8g6
+Value: 0
+Alpha: -∞
+Beta: 2
+Best Eval: 2
+Move: g8g7
+Value: -0.8
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: g8h8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: g8f8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a8b8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6b2
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6c3
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6h4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6d4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6g5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6e5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6g7
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6e7
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6h8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f6d8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d5d4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: h6h5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e6e5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d7d6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Best Move: g8g7
+Value: -0.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | l | r | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l | q |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   | Q |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   | K |   |   |   | R | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 10307348882576720297
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8e7
+Value: 5
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: e8d8
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: f6f4
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: f6f5
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: f6g6
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: g7g4
+Value: 3.2
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: g7g5
+Value: 1
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: g7g6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g7g8
+Value: 0.2
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6b2
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6c3
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6h4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6e5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6e7
+Value: 0
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6d8
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d5d4
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: h6h5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: e6e5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: d7d6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b7b5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: b7b6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a7a5
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Move: a7a6
+Value: 0
+Alpha: -∞
+Beta: 0
+Best Eval: 0
+Best Move: f6e7
+Value: 0Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | q | l | r | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | B | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   | Q | 2
+ +---+---+---+---+---+---+---+---+ 
+|   | K |   |   |   | R | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 4892705838170557280
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8f8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8d8
+Value: 4
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g4
+Value: 3.2
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g5
+Value: 1
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: g7g6
+Value: 1
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g7g8
+Value: 0.2
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7a3
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7h4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7b4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7c5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7f6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7d6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7f8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7d8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d5d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h6h5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e6e5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f5
+Value: -0.8
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f7f6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d7d6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Best Move: f7f5
+Value: -0.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | q |   | r | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | B | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   | l |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | L |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   | Q | 2
+ +---+---+---+---+---+---+---+---+ 
+|   | K |   |   |   | R | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 8976406665665512537
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: f5g4
+Value: 5
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f7
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: e8f8
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: e8d8
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: g7g4
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: g7g5
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: g7g6
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: g7f7
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: g7g8
+Value: 5
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: e7f7
+Value: 0.2
+Alpha: -∞
+Beta: 5
+Best Eval: 5
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7h4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7f6
+Value: -0.8
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e7d6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7f8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e7d8
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: f5f4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: d5d4
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: h6h5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: e6e5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: b7b6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a5
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Move: a7a6
+Value: -0.8
+Alpha: -∞
+Beta: -0.8
+Best Eval: -0.8
+Best Move: e7f6
+Value: -0.8Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   |   | r | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | B | l | q |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   | L |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   | Q | 2
+ +---+---+---+---+---+---+---+---+ 
+|   | K |   |   |   | R | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 8741339691606799887
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e6f5
+Value: 3.2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f7
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: e8d8
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f6f5
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f6g6
+Value: 3.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f6f7
+Value: 1.2
+Alpha: -∞
+Beta: 3.2
+Best Eval: 3.2
+Move: f6f8
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g7g1
+Value: 0.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: g7g2
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g3
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7f7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7e7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: g7g8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a8b8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6b2
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6c3
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6h4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6g5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6e5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6e7
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: f6d8
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: d5d4
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: h6h5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: e6e5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: b7b6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a5
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Move: a7a6
+Value: 0.2
+Alpha: -∞
+Beta: 0.2
+Best Eval: 0.2
+Best Move: g7g1
+Value: 0.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   |   |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | B | l | q |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   | L |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   |   |   | Q | 2
+ +---+---+---+---+---+---+---+---+ 
+|   | K |   |   |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 8553077211682918869
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e6f5
+Value: 9999997
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f7
+Value: 9999997
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: e8d8
+Value: 9999997
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: f6f5
+Value: 9999997
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: f6g6
+Value: 9999997
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: f6f7
+Value: 9.2
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: f6f8
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: a8b8
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6b2
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6c3
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6h4
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6d4
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6g5
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6e5
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6g7
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6e7
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6h8
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: f6d8
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: d5d4
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: h6h5
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: e6e5
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: b7b5
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: b7b6
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: a7a5
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Move: a7a6
+Value: 9.2
+Alpha: -∞
+Beta: 9.2
+Best Eval: 9.2
+Best Move: f6f7
+Value: 9.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | q |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | B | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   | L |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| K | L | L |   |   |   |   | Q | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 8139021233356574270
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e6f5
+Value: 9999999
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8d8
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: f7f5
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: f7f6
+Value: 9999997
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: f7g7
+Value: 9999997
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: f7e7
+Value: 9999997
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: f7f8
+Value: 9999997
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: a8b8
+Value: 10
+Alpha: -∞
+Beta: 9999997
+Best Eval: 9999997
+Move: f7h5
+Value: 10
+Alpha: -∞
+Beta: 10
+Best Eval: 10
+Move: f7g6
+Value: 10
+Alpha: -∞
+Beta: 10
+Best Eval: 10
+Move: f7g8
+Value: 10
+Alpha: -∞
+Beta: 10
+Best Eval: 10
+Move: d5d4
+Value: 1.2
+Alpha: -∞
+Beta: 10
+Best Eval: 10
+Move: h6h5
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: e6e5
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: b7b5
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: b7b6
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: a7a5
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Move: a7a6
+Value: 1.2
+Alpha: -∞
+Beta: 1.2
+Best Eval: 1.2
+Best Move: d5d4
+Value: 1.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k |   |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | q |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | B | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | Q | L |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| K | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 3235173579497385285
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8d8
+Value: 9999999
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: f7f5
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: f7f6
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: f7g7
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: f7e7
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: f7f8
+Value: 10.2
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: a8b8
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Move: f7h5
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Move: f7g6
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Move: f7g8
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Move: h6h5
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Move: b7b5
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Move: b7b6
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Move: a7a5
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Move: a7a6
+Value: 10.2
+Alpha: -∞
+Beta: 10.2
+Best Eval: 10.2
+Best Move: f7f8
+Value: 10.2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k | B |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   |   |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | Q | L |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| K | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: q
+Zobrist Key: 14124880020007712146
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: e8f7
+Value: 9999999
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: e8f8
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: e8d8
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: a8b8
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: h6h5
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: d7d5
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: d7d6
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: b7b5
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: b7b6
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: a7a5
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Move: a7a6
+Value: 9999999
+Alpha: -∞
+Beta: 9999999
+Best Eval: 9999999
+Best Move: e8f7
+Value: 9999999Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   |   | B |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l |   | k | Q | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| K | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: -
+Zobrist Key: 11754959652573130327
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: f7e8
+Value: 9999999
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Best Move: f7e8
+Value: 9999999Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b |   | k | B |   |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l |   | l | Q |   |   | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | l |   |   | l | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | L |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | l |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   | B |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| K | L | L |   |   |   |   |   | 2
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   | R |   | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: -
+Zobrist Key: 4183006543644933553
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Best Move: h1h1
+Value: ∞Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r | n | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L | L |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 251695027167207186
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g8h6
+Value: -1
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: g8f6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b8c6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b8a6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h5
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: h7h6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g5
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: g7g6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f5
+Value: 1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: f7f6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e5
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: e7e6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d5
+Value: 1
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: d7d6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c5
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: c7c6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b5
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: b7b6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a5
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Move: a7a6
+Value: 0
+Alpha: -∞
+Beta: -1
+Best Eval: -1
+Best Move: g8h6
+Value: -1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r | n | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   | n | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | L |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 4244208073413259630
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: h6g4
+Value: -3
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: h6f5
+Value: 3
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: h6g8
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: b8c6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: b8a6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: h8g8
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: g7g5
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: g7g6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: f7f5
+Value: 1
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: f7f6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: e7e5
+Value: 1
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: e7e6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: d7d5
+Value: 1
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: d7d6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: c7c5
+Value: 2
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: c7c6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: b7b5
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: b7b6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: a7a5
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Move: a7a6
+Value: 0
+Alpha: -∞
+Beta: -3
+Best Eval: -3
+Best Move: h6g4
+Value: -3Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r | n | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | L |   | Q |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 8916478850363430344
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: b8c6
+Value: 1
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: b8a6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: h8g8
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: h7h5
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: h7h6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g7g5
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: g7g6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f7f5
+Value: 4
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: f7f6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: e7e5
+Value: 4
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: e7e6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: d7d5
+Value: 4
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: d7d6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: c7c5
+Value: 5
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: c7c6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: b7b5
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: b7b6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: a7a5
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Move: a7a6
+Value: 3
+Alpha: -∞
+Beta: 1
+Best Eval: 1
+Best Move: b8c6
+Value: 1Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   | n |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | L | L |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 15815159998465587512
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: c6d4
+Value: -2
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: c6b4
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: c6e5
+Value: 6
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: c6a5
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: c6b8
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: h8g8
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: a8b8
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: h7h5
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: h7h6
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: g7g5
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: g7g6
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: f7f5
+Value: 4
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: f7f6
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: e7e5
+Value: 4
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: e7e6
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: d7d5
+Value: 7
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: d7d6
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: b7b5
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: b7b6
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: a7a5
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Move: a7a6
+Value: 3
+Alpha: -∞
+Beta: -2
+Best Eval: -2
+Best Move: c6d4
+Value: -2Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | Q | L |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQkq
+Zobrist Key: 11059609493567074231
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: h8g8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: a8b8
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f5
+Value: 6
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: e7e5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: e7e6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d5
+Value: 6
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Best Move: h8g8
+Value: 4Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   | Q |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQq
+Zobrist Key: 7367148352019109295
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g8h8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: a8b8
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: e7e6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d5
+Value: 9999999
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d6
+Value: 9999999
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Best Move: g8h8
+Value: 4Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | Q |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+| L | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQq
+Zobrist Key: 9139538813249370321
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: h8g8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: a8b8
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: e7e6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Best Move: h8g8
+Value: 4Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | Q |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   | L | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQq
+Zobrist Key: 12123576244728430963
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g8h8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: a8b8
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: e7e6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Best Move: g8h8
+Value: 4Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | Q |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L | L |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   |   | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R | N | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQq
+Zobrist Key: 9164309400475568547
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: h8g8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: a8b8
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: e7e6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Best Move: h8g8
+Value: 4Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | Q |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L | L | N |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   |   | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R |   | B |   | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQq
+Zobrist Key: 3031494683827514042
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: g8h8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: a8b8
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: e7e6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Best Move: g8h8
+Value: 4Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b |   | r | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | l | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   | B |   |   | Q |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L | L | N |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   |   | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R |   | B |   | K |   | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQq
+Zobrist Key: 16589687629440808566
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Move: h8g8
+Value: 4
+Alpha: -∞
+Beta: ∞
+Best Eval: ∞
+Move: a8b8
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: h7h6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: g7g6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: f7f6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: e7e6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d5
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: d7d6
+Value: 15
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: c7c6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: b7b6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a5
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Move: a7a6
+Value: 5
+Alpha: -∞
+Beta: 4
+Best Eval: 4
+Best Move: h8g8
+Value: 4Searching position:
+
+ +---+---+---+---+---+---+---+---+ 
+| r |   | b | q | k | b | r |   | 8
+ +---+---+---+---+---+---+---+---+ 
+| l | l | l | l | l | B | l | l | 7
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   | L |   |   |   | 5
+ +---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   | Q |   |   | 4
+ +---+---+---+---+---+---+---+---+ 
+| L | L | N |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+ 
+|   |   | L |   |   | L | L | L | 2
+ +---+---+---+---+---+---+---+---+ 
+| R |   | B |   | K |   | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+
+Castling Rights: KQq
+Zobrist Key: 13837429444354475609
+IsMaximiser: False
+Alpha: -∞
+Beta:∞
+Best Move: h1h1
+Value: ∞

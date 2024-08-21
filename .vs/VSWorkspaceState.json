@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Engine",
+    "\\Engine\\Engine",
+    "\\Engine\\Engine\\bin",
+    "\\Engine\\Engine\\UCI",
+    "\\UI\\UI\\MVVM\\Models\\Players"
+  ],
+  "SelectedNode": "\\Engine\\Engine\\UCI\\CommandHandler.cs",
+  "PreviewInSolutionExplorer": false
+}

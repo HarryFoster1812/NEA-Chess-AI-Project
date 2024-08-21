@@ -1,0 +1,111 @@
+﻿<Window x:Class="UI.MVVM.Views.NewGameView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.MVVM.Views"
+             xmlns:UserLoc ="clr-namespace:UI.MVVM.Models.Players"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=BackgroundColour.ColourBrush}">
+    <Viewbox Stretch="Uniform">
+        <Grid Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=BackgroundColour.ColourBrush}" Height="450" Width="800">
+            <TextBlock Text="New Game" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" FontSize="27" HorizontalAlignment="Center" Margin="5"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <!--#region Player Select Panel-->
+                <Grid Grid.Column="0" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=PanelColour.ColourBrush}" Height="270" Width="265">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Select Screen Name for human-->
+                    <!-- Select Engine path for bot-->
+                    <!-- This needs to be declared before the players since they use it-->
+                    <Grid x:Name="Player1Grid" Height="100" VerticalAlignment="Bottom">
+                        <local:NewGamePlayerSelectView/>
+                    </Grid>
+
+                    <Grid Grid.Row="2" x:Name="Player2Grid" Height="100" VerticalAlignment="Bottom">
+                        <local:NewGameBotSelectView/>
+                    </Grid>
+
+                    <!-- Player 1 -->
+                    <TextBlock Text="Player 1" Grid.Row="0" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" HorizontalAlignment="Left" FontSize="20" Margin="10,0,0,0"/>
+                    <ComboBox x:Name="Player1Combo" Height="30" Width="70" VerticalAlignment="Top" SelectionChanged="ComboBox_SelectionChanged" Tag="0">
+                        <ComboBoxItem Content="Player" IsSelected="True"/>
+                        <ComboBoxItem Content="Bot"/>
+                    </ComboBox>
+
+                    
+
+                    <!-- Player 2-->
+                    <TextBlock Text="Player 2" Grid.Row="1" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" HorizontalAlignment="Left" FontSize="20" Margin="10,0,0,0"/>
+                    <ComboBox x:Name="Player2Combo" Grid.Row="1" Height="30" Width="70" VerticalAlignment="Top" SelectionChanged="ComboBox_SelectionChanged" Tag="0">
+                        <ComboBoxItem Content="Player" IsSelected="True"/>
+                        <ComboBoxItem Content="Bot"/>
+                    </ComboBox>
+
+                </Grid>
+                <!--#endregion-->
+                
+                <!--#region Game Information Panel-->
+                <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                    <TextBlock Text="Event" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" FontSize="14" HorizontalAlignment="Center" Margin="0, 0, 0, 10"/>
+                    <ComboBox x:Name="EventCombo" Margin="0, 0, 0, 4" Width="95" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextBoxColour.ColourBrush}">
+                        <ComboBoxItem Content="Casual" IsSelected="True"/>
+                        <ComboBoxItem Content="Competitive"/>
+
+                    </ComboBox>
+                    <TextBlock Text="Date" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" FontSize="14" HorizontalAlignment="Center" Margin="0, 0, 0, 10"/>
+                    <DatePicker x:Name="GameDate" Margin="0, 0, 0, 4" Width="115" SelectedDate="{x:Static sys:DateTime.Now}" SelectedDateChanged="DatePicker_SelectedDateChanged"/>
+                    <TextBlock Text="Site" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" FontSize="14" HorizontalAlignment="Center" Margin="0, 0, 0, 10" LostFocus="TextBlock_LostFocus"/>
+                    <TextBox x:Name="SiteTextBox" Margin="0, 0, 0, 4" Width="90" Text="Online"/>
+                    <TextBlock Text="Round" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" FontSize="14" HorizontalAlignment="Center" Margin="0, 0, 0, 10"/>
+                    <TextBox x:Name="RoundTextBox" Margin="0, 0, 0, 45" Width="90" Text="1" TextChanged="TextBox_TextChanged" LostFocus="RoundTextBox_LostFocus"/>
+                    <StackPanel Orientation="Horizontal"  Width="100">
+                        <TextBlock Text="Player 1: "  Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" FontSize="15"/>
+                        <Border x:Name="Player1Border" Background="White" BorderBrush="LightGray" BorderThickness="1" Height="16" Width="18" Margin="20,0,0,0" Cursor="Hand" MouseUp="Border_MouseUp"/>
+                    </StackPanel>
+                </StackPanel>
+                <!--#endregion-->
+                
+                <Grid Grid.Column="2" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=PanelColour.ColourBrush}" Height="270" Width="265">
+                    <TextBlock Text="Time Control"  Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" HorizontalAlignment="Center" FontSize="20"/>
+                    <!-- Add radar buttons -->
+                    <Grid Margin="0,35,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        
+                        
+                        <!-- Add Dynamic Screen that will provide more option depending on the choice-->
+                        <Grid Grid.Column="1" x:Name="TimeControlSelectGrid" Height="175" VerticalAlignment="Center">
+                            <local:UnlimtedTime/>
+                        </Grid>
+
+                        <!-- Radio Buttons-->
+                        <StackPanel x:Name="RadioButtonsStackPanel" VerticalAlignment="Center">
+                            <RadioButton Margin="6,0,0,13" Content="Unlimited"      Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Tag="0" Checked="RadioButton_Checked" IsChecked="True"></RadioButton>
+                            <RadioButton Margin="6,0,0,13" Content="Time per game"  Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Tag="1" Checked="RadioButton_Checked" ></RadioButton>
+                        </StackPanel>
+
+                        
+                    </Grid>
+
+                </Grid>
+
+                
+                
+            </Grid>
+            <Button Height="45" Width="150" VerticalAlignment="Bottom" Margin="0,0,0,25" Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=ButtonColour.ColourBrush}" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Content="Play" FontSize="20" Click="Button_Click"/>
+        </Grid>
+    </Viewbox>
+</Window>

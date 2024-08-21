@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="UI.MVVM.Views.MainMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.MVVM.Views"
+             xmlns:UserLoc ="clr-namespace:UI.MVVM.Models.Players"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="100">
+    <!-- Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=PanelColour.ColourBrush}"-->
+    <Grid Background="{Binding Source={x:Static UserLoc:User.Settings}, Path=PanelColour.ColourBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition MaxHeight="30"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <!-- <RowDefinition/> -->
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="ExitButton" Text="X" FontSize="25" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" VerticalAlignment="Center" Margin="0,0,0,0" TextAlignment="Center" Cursor="Hand"/>
+
+        <TextBlock Grid.Row="1" Text="Home"     VerticalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap" FontSize="20" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Cursor="Hand" MouseUp="Home_Click"/>
+        <TextBlock Grid.Row="2" Text="Settings" VerticalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap" FontSize="20" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Cursor="Hand" MouseUp="Settings_Click"/>
+        <TextBlock Grid.Row="3" Text="Analysis" VerticalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap" FontSize="20" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Cursor="Hand" MouseUp="Analysis_Click"/>
+        <TextBlock Grid.Row="4" Text="New Game" VerticalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap" FontSize="20" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}" Cursor="Hand" MouseUp="NewGame_Click"/>
+        <!-- <TextBlock Grid.Row="4" Text="Online?" VerticalAlignment="Center" TextAlignment="Center" FontSize="35" Foreground="{Binding Source={x:Static UserLoc:User.Settings}, Path=TextColour.ColourBrush}"/> -->
+
+    </Grid>
+</UserControl>

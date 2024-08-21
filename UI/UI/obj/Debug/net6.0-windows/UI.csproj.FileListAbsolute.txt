@@ -1,0 +1,265 @@
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\MainWindow.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.lref
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.deps.json
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.runtimeconfig.json
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.exe.config
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\MainWindow.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.g.resources
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.AssemblyInfo.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.CopyComplete
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\refint\UI.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.genruntimeconfig.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\ref\UI.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.exe
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.deps.json
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.runtimeconfig.json
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.pdb
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.exe
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.exe.config
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\BoardView.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\GameInformationView.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\HomeView.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\LogIn.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\MainWindow.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\PlayingScreen.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\SignUp.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.cache
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.lref
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\BoardView.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\GameInformationView.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\HomeView.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\LogIn.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\MainWindow.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\PlayingScreen.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\SignUp.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.g.resources
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.AssemblyInfo.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.CopyComplete
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\refint\UI.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.pdb
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.genruntimeconfig.cache
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\ref\UI.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.exe.config
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.exe.config
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.exe
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.exe
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.exe.config
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.pdb
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.exe.config
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\BoardPreview.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\MainMenu.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\ManageEnginesPopup.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\NewGameView.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\ServerBrowser.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\BoardPreview.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\MainMenu.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\ManageEnginesPopup.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\NewGameView.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\ServerBrowser.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\NewGameBotSelectView.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\NewGamePlayerSelectView.g.cs
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\NewGameBotSelectView.baml
+C:\Users\17hfoster.BGS\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\NewGamePlayerSelectView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Newtonsoft.Json.xml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\HomeView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\LogIn.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\MainMenu.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\ServerBrowser.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\SignUp.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGameBotSelectView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGamePlayerSelectView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGameView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\BoardView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\GameInformationView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\PlayerInfoView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\PlayingScreen.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\BoardPreview.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\ManageEnginesPopup.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\Settings.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\HomeView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\LogIn.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\MainMenu.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\ServerBrowser.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\SignUp.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGameBotSelectView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGamePlayerSelectView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGameView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\BoardView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\GameInformationView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\PlayerInfoView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\PlayingScreen.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\BoardPreview.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\ManageEnginesPopup.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\Settings.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\Promotion.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\Promotion.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\TimePerGame.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\UnlimtedTime.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\TimePerGame.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\UnlimtedTime.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\DotNetProjects.SVGImage.dll
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\AnalysisBoardView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\AnalysisScreen.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\EngineAnalysisView.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\AnalysisBoardView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\AnalysisScreen.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\EngineAnalysisView.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\GameOver.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\GameOver.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.exe
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.deps.json
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.runtimeconfig.json
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\UI.pdb
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\DotNetProjects.SVGImage.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.exe
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.exe
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.exe
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.pdb
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Client.exe.config
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.pdb
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Engine.exe.config
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.pdb
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Server.exe.config
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\bin\Debug\net6.0-windows\Newtonsoft.Json.xml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\AnalysisBoardView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\AnalysisScreen.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\EngineAnalysisView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\HomeView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\MainMenu.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\ServerBrowser.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\MainWindow.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGameBotSelectView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGamePlayerSelectView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGameView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\TimePerGame.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\UnlimtedTime.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\BoardView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\GameInformationView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\GameOver.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\PlayerInfoView.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\PlayingScreen.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\Promotion.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\BoardPreview.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\ManageEnginesPopup.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\Settings.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\App.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.cache
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.lref
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\AnalysisBoardView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\AnalysisScreen.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Analysis\EngineAnalysisView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\HomeView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\MainMenu.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Main Menu\ServerBrowser.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\MainWindow.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGameBotSelectView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGamePlayerSelectView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\NewGameView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\TimePerGame.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\New Game\UnlimtedTime.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\BoardView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\GameInformationView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\GameOver.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\PlayerInfoView.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\PlayingScreen.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Playing Screen\Promotion.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\BoardPreview.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\ManageEnginesPopup.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\MVVM\Views\Settings\Settings.baml
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.g.resources
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.csproj.CopyComplete
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\refint\UI.dll
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.pdb
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\UI.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\UI\UI\obj\Debug\net6.0-windows\ref\UI.dll
