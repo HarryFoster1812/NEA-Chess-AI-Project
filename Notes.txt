@@ -1,0 +1,3 @@
+Add accounts feature to the ui design
+The UI is initially not logged in, if it is logged in then features are used idk yet
+Maybe add an option for creating a random gamepin which will be used to find an online game

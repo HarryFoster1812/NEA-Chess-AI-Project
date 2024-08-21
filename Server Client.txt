@@ -1,0 +1,22 @@
+Server -> Listens to the broadcast ip
+Client -> Sends a packet to the broadcast IP
+Server -> Detects the request and sends the server info and the game info
+Client -> Recives the info and adds it to a list
+If the client accepts a game:
+
+Client -> Sends a request to connect to a specific server
+Server -> Either accepts/denies request
+
+If accept:
+Server -> Acknowledgement packet to client
+Server -> Sends a broudcast packet to indicate it is no longer able to be connected to
+
+If denied:
+Server -> Denies the request
+Client -> Shows Error message
+Client -> Removes the server from the list
+
+Play around with port numbers
+
+
+When it works implement a very bad version of RSA which will send a symmetric private key
