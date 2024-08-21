@@ -1,0 +1,15 @@
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\bin\Debug\Server.exe.config
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\bin\Debug\Server.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\bin\Debug\Server.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.pdb
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\bin\Debug\Server.exe.config
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\bin\Debug\Server.exe
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\bin\Debug\Server.pdb
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.exe
+D:\OneDrive\OneDrive - Bury Grammar Schools\A level\Computer science\NEA Chess Ai Project\LAN\Server\Server\obj\Debug\Server.pdb
